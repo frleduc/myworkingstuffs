@@ -11,6 +11,7 @@ car -> app
 app -> client
 client -> tshirt
 @enduml
+![your-UML-diagram-name](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/jonashackt/plantuml-markdown/master/example-uml.iuml)
 # plantuml-markdown
 Example project showing how to use PlantUML and embed UML diagrams into a GitHub markdown
 
